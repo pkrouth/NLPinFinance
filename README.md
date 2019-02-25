@@ -9,7 +9,15 @@
 
 The implementation has been done with python 3.6. The packages needed are listed in requirements.txt and requirements folder.For this project I used a python environemnt created with [Anaconda Distribution]. (https://www.anaconda.com/distribution/)   
 
-Please refer to requirements.txt for python libraries required.   
+Libraries Needed:  
+alphalens==0.3.2  
+nltk==3.3.0  
+numpy==1.13.3  
+ratelimit==2.2.0  
+requests==2.18.4  
+scikit-learn==0.19.1  
+six==1.11.0  
+tqdm==4.19.5  
 
 
 ## Project Motivation<a name="motivation"></a>
